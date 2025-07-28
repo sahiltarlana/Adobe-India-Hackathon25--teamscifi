@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Test Your Acrobat Exporting Skills.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T17:56:39Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Steps to send in bulk",
+            "importance_rank": 1,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Content from Page 3",
+            "importance_rank": 3,
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "importance_rank": 4,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Content from Page 5",
+            "importance_rank": 5,
+            "page_number": 5
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "name (Printed) \u2022 Signer's email \u2022 Signature date (Read-Only; Supplied by the system) \u2022 Checkbox \u2022 Places fields anywhere you click on the document. \u2022 Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. 2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner. Advanced authoring: \u2022 Allows access to all field types (highlighted in yellow) \u2022 Supports form field detection (highlighted in green) \u2022 Supports Prefill fields (highlighted in pink) \u2022 Supports field assignment (highlighted in purple and pink) \u2022 Supports field validation \u2022 Supports calculated fields \u2022 Supports conditional fields \u2022 Allows control of the field text font/appearance \u2022 Places fields by dragging them from the menu on the right side of the document. \u2022 Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. Note: You can switch between Simple and Advanced mode by selecting the Advanced editing (on||off) toggle in the upper-right corner. 10. Select Next (in the top-right corner) after all the fields have been placed. 11. Review and Send Review the agreement information and Send if",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Fill and Sign PDF Forms You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms Types of PDF forms \u2022 Interactive forms: These contain fields that you can select and fill in. \u2022 Flat forms: These do not have interactive fields. It could be a paper form or PDF that hasn\u2019t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign. It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following",
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "\u2022 Up to 50 participants are supported. \u2022 Each participant listed receives their own agreement. 2. Enter recipient email addresses followed by commas, or copy and paste a list of email addresses into the Email field. 3. Configure participant authentication by clicking the key icon to the right of the participant. \u2022 Email is the default authentication method for confirming the identity of each participant and is sufficient to obtain a legal signature in most cases. Password authentication can be added to increase security. When configured, the participant must enter the password before they can interact with the agreement. 4. . (Optional) Add yourself and/or CC'd parties \u2022 Click Add me to add yourself as a counter signer. \u2022 Click Add cc to add people you want to be copied when the agreement is sent and complete. 5. (Optional) Add additional files if needed. The initial file selected to start the agreement template is already attached. Upload any additional file(s) that you require. \u2022 Multiple files can be uploaded. \u2022 All files uploaded are concatenated into one file for the final agreement. \u2022 The order the files are listed dictates how the final agreement will look. \u2022 You can click",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Authentication, Phone, or Acrobat Sign. \u2022 Password Protect the PDF file. \u2022 Set a Completion Deadline. \u2022 Specify the Recipient's Language in the email sent. More or Advanced Options 5. The Specify Where to Fill & Sign window is displayed showing options based on whether you have added one signer or multiple signers. \u2022 Simplified mode for single signer If you've added one signer, the Advanced Editing mode is off, and you see the simplified option as shown below. To place a signature or another field, click at the desired location in the document and then set the field's properties from its context menu. \u2022 Simplified mode for multiple signers This mode provides simplified authoring with the capability of assigning fields to multiple signers. When you select a signer from the right pane and add fields in the form, the fields are assigned to the signer. That means those fields will be available to the signer for filling the information and signing the form. \u2022 You can switch the assignee of any field using the floating toolbar. The assigned colors to the signers make it easy to distinguish the fields for respective signers. \u2022 Advanced mode for multiple signers If",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms. Interactive form To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document. Flat form To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools. Save forms \u2022 To save the completed form, choose Save As from the hamburger menu (File > Save As in macOS) and rename the file. \u2022 To remove extended Acrobat Reader features, choose Save A Copy (File > Save A Copy in macOS). \u2022 To allow Acrobat Reader users to save the data they typed, choose one of the following depending upon your operating system: Windows\u00ae: Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save) macOS: File >",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "will be available to the signer for filling the information and signing the form. \u2022 You can switch the assignee of any field using the floating toolbar. The assigned colors to the signers make it easy to distinguish the fields for respective signers. \u2022 Advanced mode for multiple signers If you've added multiple signers, you see the options as shown below. Click the button to place the detected form fields in the PDF document. Alternatively, drag fields from the tabs in the right pane and drop the fields where desired in the document. Note: You can switch between simplified mode and advanced mode for multiple signers. To switch mode, turn off the Advanced Editing switch in the right-pane. 6. When you've placed all desired fields in the document, click Send. The document is sent for signature to the recipients and a confirmation notice is displayed. You receive an email from Acrobat Sign stating that the agreements have been sent to the first signer for signature. The first signer also receives an email with a link to sign the agreement. When the signer adds his or her signature in the signature field and then clicks the Click to sign button, the",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Select Set Reminder to set the frequency of reminders to be sent until the agreement is completed. 8. Click Next in the upper right corner of the window. The document is now ready to add any fields that you want the signers to fill in or sign. Note: If you have added multiple files, the files are converted into PDFs and combined into a single document. The combined document is opened for you to add fields. 9. Prepare the Agreement and Add Fields: You can now add any necessary fields to the agreement. Remember that a Signature field must be placed for each signer (including internal counter-singers). There are two methods to apply fields: 1. Simple Authoring is loaded by default in most instances. Simple authoring: \u2022 Is limited to the most common types of fields: \u2022 Text input (All Text fields are flagged as Required) \u2022 Signature \u2022 Signer's name (Printed) \u2022 Signer's email \u2022 Signature date (Read-Only; Supplied by the system) \u2022 Checkbox \u2022 Places fields anywhere you click on the document. \u2022 Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. 2. Advanced Authoring can",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "forms can be viewed on the Manage page, but do not allow editing. \u2022 A PDF copy of the Bulk Send parent document (without added fields) is emailed to the sharee. \u2022 View Activity Report \u2022 View the current status of all child agreements created by the Bulk Send parent template. \u2022 Add Notes - Allows the user to make personal notes for the Bulk Send. \u2022 Agreements summary/filter (green square) - The Agreements section shows up to five values that reflect the number of child agreements in each status. If no child agreements are in a given status, the status is not exposed, so you may see fewer than five line items. Clicking any one status will produce a filter list of those child agreements: \u2022 All - Shows all (child) agreements that have spawned from the Bulk Send (parent template). \u2022 In Progress - Indicates that the child agreement is waiting for the participant to complete their signature. \u2022 Canceled - Indicates that either the sender explicitly canceled the child agreement, or the participant declined to sign. \u2022 Completed - Completed agreements have successfully obtained all signatures from all participants on the agreement. \u2022 Waiting for You -",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "the agreement template is already attached. Upload any additional file(s) that you require. \u2022 Multiple files can be uploaded. \u2022 All files uploaded are concatenated into one file for the final agreement. \u2022 The order the files are listed dictates how the final agreement will look. \u2022 You can click and drag the files to sort them. \u2022 You must share this password with the participants out-of-band. 6. Add Agreement Details: \u2022 Name your agreement. All agreements generated from the Send in bulk template will have the same agreement name. \u2022 Change the default text in the Message field as appropriate. 7. Edit the Agreement settings (Optional): By default, agreements do not require a password to view the completed agreement, nor do they have reminders set for participants \u2022 Select Add access password if you require recipients to enter a password to open and view the signed PDF file. \u2022 Select Set Reminder to set the frequency of reminders to be sent until the agreement is completed. 8. Click Next in the upper right corner of the window. The document is now ready to add any fields that you want the signers to fill in or sign. Note: If you",
+            "page_number": 11
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign. It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics. To fill text fields: 1. From the left panel, select Fill in form fields , and then select the field where you want to add text. It displays a text field along with a toolbar. 2. Select the text field again and enter your text. 3. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. 5. To change the text size, select A or A as required. Note: Resize the first annotation you place to fit the check box or radio button in the document, and the next annotations you add will be of the same size and will",
+            "page_number": 2
+        }
+    ]
+}
